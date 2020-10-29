@@ -1,0 +1,8 @@
+{
+  "name": "pleroma-gcp-functions",
+  "version": "0.0.1",
+  "dependencies": {
+    "uuid": "^8.3.1",
+    "megalodon": "^3.3.2"
+  }
+}
